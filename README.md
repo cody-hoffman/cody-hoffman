@@ -2,7 +2,7 @@
 
 - 🌎 I'm currently working on a next-gen events platform at [BoomPop](https://boompop.com)
 - 🌱 I've been learning about local-first and sync engines
-- :bulb: I'm interested in startups, full stack development, and building engineering teams
+- :bulb: I'm interested in startups, full stack typescript, and building engineering teams
 
 <!--
 **cody-hoffman/cody-hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
