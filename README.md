@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌎 I'm currently working on a next-gen events platform at [BoomPop](https://boompop.com)
-- 🌱 I've been learning about local-first and sync engines
+- 🌱 I've been learning about go and tanstack start
 - :bulb: I'm interested in startups, full stack typescript, and building engineering teams
 
 <!--
