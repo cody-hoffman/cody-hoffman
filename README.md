@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌎 I'm currently working on a next-gen events platform at [BoomPop](https://boompop.com)
-- 🌱 I've been learning about go and tanstack start
+- 🌎 I'm staff software engineer at a stealth startup automating insurance claims
+- 🌱 I've been learning about xstate and tanstack start (really enjoying tanstack router)
 - :bulb: I'm interested in startups, full stack typescript, and building engineering teams
+- 📫 How to reach me: choffman733@gmail.com
 
 <!--
 **cody-hoffman/cody-hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
