@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌎 I'm founding engineer at [landmark](https://hirelandmark.com) 
-- 🌱 I've been learning about xstate and tanstack start (really enjoying tanstack router)
+- 🌱 I've been learning about commercial real estate and where to best apply LLMs
 - :bulb: I'm interested in startups, AI and agentic engineering, full stack typescript, and building engineering teams
 - 📫 How to reach me: choffman733@gmail.com
 
