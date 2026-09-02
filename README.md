@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌎 I'm staff software engineer at a stealth startup automating insurance claims
+- 🌎 I'm founding engineer at [landmark](https://hirelandmark.com) 
 - 🌱 I've been learning about xstate and tanstack start (really enjoying tanstack router)
-- :bulb: I'm interested in startups, full stack typescript, and building engineering teams
+- :bulb: I'm interested in startups, AI and agentic engineering, full stack typescript, and building engineering teams
 - 📫 How to reach me: choffman733@gmail.com
 
 <!--
